@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.1",
+  "appInfo": {
+    "name": "My Test Amlication",
+    "description": "My Test Amlication",
+    "version": "h01xup1n",
+    "id": "ckymw9v7r145503501s61bocan34",
+    "url": "https://app.amplication.com/ckymw9v7r145503501s61bocan34",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckymw9v7r145503501s61bocan34",
+      "authProvider": "Jwt"
+    }
+  }
+}
